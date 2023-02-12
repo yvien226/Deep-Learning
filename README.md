@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep learning projects
+A repo containing Deep learning projects
